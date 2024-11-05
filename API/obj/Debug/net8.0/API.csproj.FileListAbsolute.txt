@@ -1,0 +1,64 @@
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\bin\Debug\net8.0\appsettings.Development.json
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\bin\Debug\net8.0\appsettings.json
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\bin\Debug\net8.0\API.exe
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\bin\Debug\net8.0\API.deps.json
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\bin\Debug\net8.0\API.runtimeconfig.json
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\bin\Debug\net8.0\API.dll
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\bin\Debug\net8.0\API.pdb
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\obj\Debug\net8.0\staticwebassets.build.json
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\obj\Debug\net8.0\staticwebassets.development.json
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\obj\Debug\net8.0\API.csproj.Up2Date
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\obj\Debug\net8.0\API.dll
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\obj\Debug\net8.0\refint\API.dll
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\obj\Debug\net8.0\API.pdb
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+E:\try_programming\fulstack_Ecommerce\skinet\New folder\API\API\obj\Debug\net8.0\ref\API.dll
+E:\try_programming\fulstack_Ecommerce\skinet\API\bin\Debug\net8.0\appsettings.Development.json
+E:\try_programming\fulstack_Ecommerce\skinet\API\bin\Debug\net8.0\appsettings.json
+E:\try_programming\fulstack_Ecommerce\skinet\API\bin\Debug\net8.0\API.exe
+E:\try_programming\fulstack_Ecommerce\skinet\API\bin\Debug\net8.0\API.deps.json
+E:\try_programming\fulstack_Ecommerce\skinet\API\bin\Debug\net8.0\API.runtimeconfig.json
+E:\try_programming\fulstack_Ecommerce\skinet\API\bin\Debug\net8.0\API.dll
+E:\try_programming\fulstack_Ecommerce\skinet\API\bin\Debug\net8.0\API.pdb
+E:\try_programming\fulstack_Ecommerce\skinet\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\try_programming\fulstack_Ecommerce\skinet\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\try_programming\fulstack_Ecommerce\skinet\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\try_programming\fulstack_Ecommerce\skinet\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\try_programming\fulstack_Ecommerce\skinet\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+E:\try_programming\fulstack_Ecommerce\skinet\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+E:\try_programming\fulstack_Ecommerce\skinet\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+E:\try_programming\fulstack_Ecommerce\skinet\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+E:\try_programming\fulstack_Ecommerce\skinet\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+E:\try_programming\fulstack_Ecommerce\skinet\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+E:\try_programming\fulstack_Ecommerce\skinet\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+E:\try_programming\fulstack_Ecommerce\skinet\API\obj\Debug\net8.0\staticwebassets.build.json
+E:\try_programming\fulstack_Ecommerce\skinet\API\obj\Debug\net8.0\staticwebassets.development.json
+E:\try_programming\fulstack_Ecommerce\skinet\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\try_programming\fulstack_Ecommerce\skinet\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+E:\try_programming\fulstack_Ecommerce\skinet\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+E:\try_programming\fulstack_Ecommerce\skinet\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+E:\try_programming\fulstack_Ecommerce\skinet\API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\try_programming\fulstack_Ecommerce\skinet\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+E:\try_programming\fulstack_Ecommerce\skinet\API\obj\Debug\net8.0\API.csproj.Up2Date
+E:\try_programming\fulstack_Ecommerce\skinet\API\obj\Debug\net8.0\API.dll
+E:\try_programming\fulstack_Ecommerce\skinet\API\obj\Debug\net8.0\refint\API.dll
+E:\try_programming\fulstack_Ecommerce\skinet\API\obj\Debug\net8.0\API.pdb
+E:\try_programming\fulstack_Ecommerce\skinet\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+E:\try_programming\fulstack_Ecommerce\skinet\API\obj\Debug\net8.0\ref\API.dll
