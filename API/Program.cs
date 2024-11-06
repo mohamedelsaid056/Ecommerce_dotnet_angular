@@ -1,3 +1,5 @@
+using Infrastructure.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace API
 {
@@ -13,6 +15,14 @@ namespace API
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            // add connection string to the builder
+            builder.Services.AddDbContext<ApplicationDbContext>(x => // corrected spelling of ApplicationDbContext
+             {
+                 x.UseSqlServer(builder.Configuration.GetConnectionString("DefaultSQLConnection")); // changed to UseSqlServer
+             });
+
+            builder.services.AddScoped<IProductRepository, ProductRepository>();
+
 
             var app = builder.Build();
 

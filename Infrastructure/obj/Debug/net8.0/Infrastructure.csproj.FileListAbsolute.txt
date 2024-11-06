@@ -1,0 +1,16 @@
+E:\try_programming\fulstack_Ecommerce\skinet\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+E:\try_programming\fulstack_Ecommerce\skinet\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+E:\try_programming\fulstack_Ecommerce\skinet\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+E:\try_programming\fulstack_Ecommerce\skinet\Infrastructure\bin\Debug\net8.0\Core.dll
+E:\try_programming\fulstack_Ecommerce\skinet\Infrastructure\bin\Debug\net8.0\Core.pdb
+E:\try_programming\fulstack_Ecommerce\skinet\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+E:\try_programming\fulstack_Ecommerce\skinet\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\try_programming\fulstack_Ecommerce\skinet\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+E:\try_programming\fulstack_Ecommerce\skinet\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+E:\try_programming\fulstack_Ecommerce\skinet\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\try_programming\fulstack_Ecommerce\skinet\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+E:\try_programming\fulstack_Ecommerce\skinet\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+E:\try_programming\fulstack_Ecommerce\skinet\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+E:\try_programming\fulstack_Ecommerce\skinet\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+E:\try_programming\fulstack_Ecommerce\skinet\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+E:\try_programming\fulstack_Ecommerce\skinet\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

@@ -1,0 +1,12 @@
+E:\try_programming\fulstack_Ecommerce\skinet\Core\bin\Debug\net8.0\Core.deps.json
+E:\try_programming\fulstack_Ecommerce\skinet\Core\bin\Debug\net8.0\Core.dll
+E:\try_programming\fulstack_Ecommerce\skinet\Core\bin\Debug\net8.0\Core.pdb
+E:\try_programming\fulstack_Ecommerce\skinet\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\try_programming\fulstack_Ecommerce\skinet\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+E:\try_programming\fulstack_Ecommerce\skinet\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+E:\try_programming\fulstack_Ecommerce\skinet\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+E:\try_programming\fulstack_Ecommerce\skinet\Core\obj\Debug\net8.0\Core.sourcelink.json
+E:\try_programming\fulstack_Ecommerce\skinet\Core\obj\Debug\net8.0\Core.dll
+E:\try_programming\fulstack_Ecommerce\skinet\Core\obj\Debug\net8.0\refint\Core.dll
+E:\try_programming\fulstack_Ecommerce\skinet\Core\obj\Debug\net8.0\Core.pdb
+E:\try_programming\fulstack_Ecommerce\skinet\Core\obj\Debug\net8.0\ref\Core.dll
