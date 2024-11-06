@@ -5,3 +5,8 @@ Microsoft.EntityFrameworkCore.Sqlite
 Microsoft.EntityFrameworkCore 
 
 Microsoft.EntityFrameworkCore.Design 
+
+
+##  database used 
+SQLite 
+
