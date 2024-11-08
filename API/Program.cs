@@ -1,4 +1,6 @@
+using Core.Interfaces;
 using Infrastructure.Data;
+using Infrastructure.ProductRepository;
 using Microsoft.EntityFrameworkCore;
 
 namespace API
@@ -21,7 +23,7 @@ namespace API
                  x.UseSqlServer(builder.Configuration.GetConnectionString("DefaultSQLConnection")); // changed to UseSqlServer
              });
 
-            builder.services.AddScoped<IProductRepository, ProductRepository>();
+            builder.Services.AddScoped<IProductRepository, ProductRepository>();
 
 
             var app = builder.Build();
@@ -41,6 +43,40 @@ namespace API
             app.MapControllers();
 
             app.Run();
+
+            //  Apply migrations at startup
+            // using (var scope = app.Services.CreateScope())
+            // {
+            //     var services = scope.ServiceProvider;
+            //     try
+            //     {
+            //         var context = services.GetRequiredService<ApplicationDbContext>();
+
+            //         // Check if there are any pending migrations
+            //         if (context.Database.GetPendingMigrations().Any())
+            //         {
+            //             // Apply any pending migrations
+            //             context.Database.Migrate();
+
+            //             // Optionally seed the database
+            //             if (!context.Products.Any()) // Example check for empty table
+            //             {
+            //                // SeedData.Initialize(context);
+            //             }
+            //         }
+
+            //         app.Logger.LogInformation("Database migrated successfully");
+            //     }
+            //     catch (Exception ex)
+            //     {
+            //         var logger = services.GetRequiredService<ILogger<Program>>();
+            //         logger.LogError(ex, "An error occurred while migrating the database");
+            //         throw;
+            //     }
+            // }
+
+
+
         }
     }
 }

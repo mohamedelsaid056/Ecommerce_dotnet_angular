@@ -6,6 +6,7 @@ using Infrastructure.Data;
 using Core.models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Core.Interfaces;
 
 namespace API.Controllers
 {
@@ -13,27 +14,28 @@ namespace API.Controllers
     [Route("api/[controller]")]
     public class ProductsController : ControllerBase
     {
-        // i need to make dependency injection  for the database context
+        
 
-        private readonly ApplicationDbContext _context;
+        private readonly IProductRepository ProductRepository;
 
-        public ProductsController(ApplicationDbContext context)
+        public ProductsController(IProductRepository productRepository)
         {
-            _context = context;
+            ProductRepository = productRepository;
         }
+
 
         // GET: api/products
         [HttpGet]
         public async Task<ActionResult<IEnumerable<product>>> GetProducts()
         {
-            return await _context.Products.ToListAsync();
+            return Ok(await ProductRepository.GetAllProductAsync());
         }
 
         // GET: api/products/{id}
         [HttpGet("{id}")]
         public async Task<ActionResult<product>> GetProduct(int id)
         {
-            var product = await _context.Products.FindAsync(id);
+            var product = await ProductRepository.GetProductByIdAsync(id);
             if (product == null)
             {
                 return NotFound();
@@ -45,8 +47,8 @@ namespace API.Controllers
         [HttpPost]
         public async Task<ActionResult<product>> CreateProduct(product product)
         {
-            _context.Products.Add(product);
-            await _context.SaveChangesAsync();
+            await ProductRepository.CreateProductAsync(product);
+
             return CreatedAtAction(nameof(GetProduct), new { id = product.Id }, product);
         }
 
@@ -59,24 +61,38 @@ namespace API.Controllers
                 return BadRequest();
             }
 
-            _context.Entry(product).State = EntityState.Modified;
-            await _context.SaveChangesAsync();
+            try
+            {
+                await ProductRepository.UpdateProductAsync(id, product);
+            }
+            catch (DbUpdateConcurrencyException)
+            {
+                if (await ProductRepository.GetProductByIdAsync(id) == null)
+                {
+                    return NotFound();
+                }
+                else
+                {
+                    throw;
+                }
+            }
 
             return NoContent();
+
         }
 
         // DELETE: api/products/{id}
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteProduct(int id)
         {
-            var product = await _context.Products.FindAsync(id);
-            if (product == null)
+            try
+            {
+                await ProductRepository.DeleteProductByIdAsync(id);
+            }
+            catch (KeyNotFoundException)
             {
                 return NotFound();
             }
-
-            _context.Products.Remove(product);
-            await _context.SaveChangesAsync();
 
             return NoContent();
         }

@@ -14,3 +14,5 @@ E:\try_programming\fulstack_Ecommerce\skinet\Infrastructure\obj\Debug\net8.0\Inf
 E:\try_programming\fulstack_Ecommerce\skinet\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 E:\try_programming\fulstack_Ecommerce\skinet\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 E:\try_programming\fulstack_Ecommerce\skinet\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+E:\try_programming\fulstack_Ecommerce\skinet\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+E:\try_programming\fulstack_Ecommerce\skinet\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache

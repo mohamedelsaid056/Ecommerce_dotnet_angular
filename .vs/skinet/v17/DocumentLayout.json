@@ -3,40 +3,24 @@
   "WorkspaceRootPath": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D87C66F1-41E9-4708-B4FA-551C3F53C7DA}|Infrastructure\\Infrastructure.csproj|e:\\try_programming\\fulstack_ecommerce\\skinet\\infrastructure\\productrepository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D87C66F1-41E9-4708-B4FA-551C3F53C7DA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\productrepository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\try_programming\\fulstack_Ecommerce\\skinet\\Infrastructure\\Data\\Migrations\\20241108011512_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Data\\Migrations\\20241108011512_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDFBB8FF-0CA8-46B1-9ADD-988422182B75}|Core\\Core.csproj|e:\\try_programming\\fulstack_ecommerce\\skinet\\core\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDFBB8FF-0CA8-46B1-9ADD-988422182B75}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6C29C66-732D-40EF-A9CE-E2A53AEB2305}|API\\API.csproj|e:\\try_programming\\fulstack_ecommerce\\skinet\\api\\migrations\\applicationdbcontectmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6C29C66-732D-40EF-A9CE-E2A53AEB2305}|API\\API.csproj|solutionrelative:api\\migrations\\applicationdbcontectmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6C29C66-732D-40EF-A9CE-E2A53AEB2305}|API\\API.csproj|e:\\try_programming\\fulstack_ecommerce\\skinet\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6C29C66-732D-40EF-A9CE-E2A53AEB2305}|API\\API.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6C29C66-732D-40EF-A9CE-E2A53AEB2305}|API\\API.csproj|e:\\try_programming\\fulstack_ecommerce\\skinet\\api\\migrations\\20241106204511_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6C29C66-732D-40EF-A9CE-E2A53AEB2305}|API\\API.csproj|solutionrelative:api\\migrations\\20241106204511_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6C29C66-732D-40EF-A9CE-E2A53AEB2305}|API\\API.csproj|e:\\try_programming\\fulstack_ecommerce\\skinet\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6C29C66-732D-40EF-A9CE-E2A53AEB2305}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\try_programming\\fulstack_Ecommerce\\skinet\\Infrastructure\\Data\\Migrations\\20241108010333_init22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Data\\Migrations\\20241108010333_init22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D87C66F1-41E9-4708-B4FA-551C3F53C7DA}|Infrastructure\\Infrastructure.csproj|e:\\try_programming\\fulstack_ecommerce\\skinet\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D87C66F1-41E9-4708-B4FA-551C3F53C7DA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6C29C66-732D-40EF-A9CE-E2A53AEB2305}|API\\API.csproj|e:\\try_programming\\fulstack_ecommerce\\skinet\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D6C29C66-732D-40EF-A9CE-E2A53AEB2305}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{CDFBB8FF-0CA8-46B1-9ADD-988422182B75}|Core\\Core.csproj|e:\\try_programming\\fulstack_ecommerce\\skinet\\core\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFBB8FF-0CA8-46B1-9ADD-988422182B75}|Core\\Core.csproj|solutionrelative:core\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6C29C66-732D-40EF-A9CE-E2A53AEB2305}|API\\API.csproj|e:\\try_programming\\fulstack_ecommerce\\skinet\\api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6C29C66-732D-40EF-A9CE-E2A53AEB2305}|API\\API.csproj|solutionrelative:api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D87C66F1-41E9-4708-B4FA-551C3F53C7DA}|Infrastructure\\Infrastructure.csproj|e:\\try_programming\\fulstack_ecommerce\\skinet\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D87C66F1-41E9-4708-B4FA-551C3F53C7DA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,123 +35,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\Infrastructure\\ProductRepository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ProductRepository\\ProductRepository.cs",
-              "ToolTip": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\Infrastructure\\ProductRepository\\ProductRepository.cs",
-              "RelativeToolTip": "Infrastructure\\ProductRepository\\ProductRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Title": "20241108011512_init1.cs",
+              "DocumentMoniker": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\Infrastructure\\Data\\Migrations\\20241108011512_init1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Migrations\\20241108011512_init1.cs",
+              "ToolTip": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\Infrastructure\\Data\\Migrations\\20241108011512_init1.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Migrations\\20241108011512_init1.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAIwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T23:29:31.151Z",
+              "WhenOpened": "2024-11-08T01:15:15.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\Core\\Interfaces\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Core\\Interfaces\\IProductRepository.cs",
-              "ToolTip": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\Core\\Interfaces\\IProductRepository.cs",
-              "RelativeToolTip": "Core\\Interfaces\\IProductRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Title": "20241108010333_init22.cs",
+              "DocumentMoniker": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\Infrastructure\\Data\\Migrations\\20241108010333_init22.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Migrations\\20241108010333_init22.cs",
+              "ToolTip": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\Infrastructure\\Data\\Migrations\\20241108010333_init22.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Migrations\\20241108010333_init22.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T23:19:39.862Z",
+              "WhenOpened": "2024-11-08T01:03:34.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ApplicationDbContectModelSnapshot.cs",
-              "DocumentMoniker": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\API\\Migrations\\ApplicationDbContectModelSnapshot.cs",
-              "RelativeDocumentMoniker": "API\\Migrations\\ApplicationDbContectModelSnapshot.cs",
-              "ToolTip": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\API\\Migrations\\ApplicationDbContectModelSnapshot.cs",
-              "RelativeToolTip": "API\\Migrations\\ApplicationDbContectModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T22:57:52.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20241106204511_init.Designer.cs",
-              "DocumentMoniker": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\API\\Migrations\\20241106204511_init.Designer.cs",
-              "RelativeDocumentMoniker": "API\\Migrations\\20241106204511_init.Designer.cs",
-              "ToolTip": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\API\\Migrations\\20241106204511_init.Designer.cs",
-              "RelativeToolTip": "API\\Migrations\\20241106204511_init.Designer.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T22:57:21.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
               "ToolTip": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcBAAAAAAAAAAAAAOgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T22:45:37.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\API\\appsettings.json",
-              "RelativeDocumentMoniker": "API\\appsettings.json",
-              "ToolTip": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\API\\appsettings.json",
-              "RelativeToolTip": "API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-06T20:34:43.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\API\\Program.cs",
-              "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\API\\Program.cs",
-              "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T18:20:57.845Z",
+              "WhenOpened": "2024-11-08T00:58:27.386Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "productsController.cs",
-              "DocumentMoniker": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\API\\Controllers\\productsController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\productsController.cs",
-              "ToolTip": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\API\\Controllers\\productsController.cs",
-              "RelativeToolTip": "API\\Controllers\\productsController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBMAAAAPAAAAAAAAAA==",
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\Core\\models\\ProductType.cs",
+              "RelativeDocumentMoniker": "Core\\models\\ProductType.cs",
+              "ToolTip": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\Core\\models\\ProductType.cs",
+              "RelativeToolTip": "Core\\models\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T22:29:22.436Z",
+              "WhenOpened": "2024-11-07T22:37:57.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\API\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\API\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "API\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T22:29:06.952Z",
+              "DocumentIndex": 4,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "E:\\try_programming\\fulstack_Ecommerce\\skinet\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T19:53:24.805Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }
