@@ -1,4 +1,5 @@
 using Core.Interfaces;
+using Infrastructure;
 using Infrastructure.Data;
 using Infrastructure.ProductRepository;
 using Microsoft.EntityFrameworkCore;
@@ -24,6 +25,8 @@ namespace API
              });
 
             builder.Services.AddScoped<IProductRepository, ProductRepository>();
+            //add service for gereic repository
+            builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 
 
             var app = builder.Build();

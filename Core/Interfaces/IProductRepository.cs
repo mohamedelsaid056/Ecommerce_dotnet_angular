@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Core.Interfaces
 {
-   public  interface IProductRepository
+    public interface IProductRepository
     {
         Task<IEnumerable<product>> GetAllProductAsync();
 
@@ -19,4 +19,13 @@ namespace Core.Interfaces
 
         Task DeleteProductByIdAsync(int id);
     }
+
+    // public interface GenericRepository<T> where T : BaseModel
+    // {
+
+    //     Task<IEnumerable<T>> GetAllProductAsync();
+
+    //     Task<T> GetProductByIdAsync(int id);
+    //     Task UpdateProductAsync(int id, T entity);
+    // }
 }

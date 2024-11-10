@@ -14,13 +14,15 @@ namespace API.Controllers
     [Route("api/[controller]")]
     public class ProductsController : ControllerBase
     {
-        
+
 
         private readonly IProductRepository ProductRepository;
+        private readonly IGenericRepository<product> _productRepository;
 
-        public ProductsController(IProductRepository productRepository)
+        public ProductsController(IProductRepository productRepository, IGenericRepository<product> productRepository1)
         {
             ProductRepository = productRepository;
+            _productRepository = productRepository1;
         }
 
 
@@ -28,7 +30,8 @@ namespace API.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<product>>> GetProducts()
         {
-            return Ok(await ProductRepository.GetAllProductAsync());
+            var products = await _productRepository.GetAllAsync();
+            return Ok(products);
         }
 
         // GET: api/products/{id}

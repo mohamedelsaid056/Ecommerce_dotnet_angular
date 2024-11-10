@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace Core.models
 {
-    public class product
+    public class product : BaseModel
     {
-        public int Id { get; set; }
+
 
         public string? Name { get; set; }
         public string? Description { get; set; }
