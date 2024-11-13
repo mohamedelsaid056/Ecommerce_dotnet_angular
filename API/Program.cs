@@ -3,6 +3,7 @@ using Infrastructure;
 using Infrastructure.Data;
 using Infrastructure.ProductRepository;
 using Microsoft.EntityFrameworkCore;
+using API.MiddleWare;
 
 namespace API
 {
@@ -33,7 +34,7 @@ namespace API
 
             // Configure the HTTP request pipeline.
 
-            app.Use
+            app.UseMiddleware<EcepttionMiddleWare>();
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();
@@ -42,7 +43,6 @@ namespace API
 
             // app.UseHttpsRedirection(); remove 
             app.UseStaticFiles();
-
             app.UseAuthorization();
 
 
