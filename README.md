@@ -15,4 +15,7 @@ that will help you to get all endpoint in one file you need to import this file 
 
 ## عاوزين نشرح ال Archecture بتاع ال app  وخصوصا استخدام ال repositoy pattern مع ال sececifiction pattern 
 
+## Setting up Angular to use HTTPS
+mkcert is a simple tool for making locally-trusted development certificates   [mkcert](https://github.com/FiloSottile/mkcert)
+
 
