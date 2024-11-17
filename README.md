@@ -25,5 +25,8 @@ for more infromation   [toast](https://github.com/scttcper/ngx-toastr)
 ### Adding breadcrumbs for navigation hierarchies 
 Breadcrumbs are vital in applications with deep navigation hierarchies, offering users an intuitive way to traverse back to higher levels effortlessly.  [Breadcrumbs](https://github.com/udayvunnam/xng-breadcrumb/tree/main)
 
+### For Adding loading indicators waiting for getting Data form API Request usnig spinner 
+A library which has loading spinners for Angular    [ngx-spinner](https://www.npmjs.com/package/ngx-spinner)
+
 
 
