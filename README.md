@@ -18,4 +18,7 @@ that will help you to get all endpoint in one file you need to import this file 
 ## Setting up Angular to use HTTPS
 mkcert is a simple tool for making locally-trusted development certificates   [mkcert](https://github.com/FiloSottile/mkcert)
 
+## for notifacation for handle error i use "toast" notifications. 
+for more infromation   [toast](https://github.com/scttcper/ngx-toastr)
+
 
