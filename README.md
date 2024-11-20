@@ -5,6 +5,8 @@ Microsoft.EntityFrameworkCore.Sqlite
 Microsoft.EntityFrameworkCore 
 
 Microsoft.EntityFrameworkCore.Design 
+### for Redis 
+StackExchange.Redis 
 
 
 ##  database used 
