@@ -1,10 +1,18 @@
-## nuget paackage 
+# NuGet Paackage In Backend 
 ### for orm 
-Microsoft.EntityFrameworkCore.Sqlite 
+install-package Microsoft.EntityFrameworkCore.Sqlite  
+install-package Microsoft.EntityFrameworkCore  
+install-package Microsoft.EntityFrameworkCore.Design  
 
-Microsoft.EntityFrameworkCore 
+### for Redis 
+install-package StackExchange.Redis  
 
-Microsoft.EntityFrameworkCore.Design 
+### Identity 
+install-package microsoft.aspnetcore.identity.EntityFrameworkCore  
+install-package microsoft.aspnetcore.identity  
+install-package microsoft.identitymodel.tokens  
+install-package System.IdentityModel.Tokens.Jwt  
+
 
 
 ##  database used 
@@ -14,8 +22,26 @@ SQLite
 that will help you to get all endpoint in one file you need to import this file in postman 
 
 ## عاوزين نشرح ال Archecture بتاع ال app  وخصوصا استخدام ال repositoy pattern مع ال sececifiction pattern 
+# third party tools  in client "Angular"
 
-## Setting up Angular to use HTTPS
+### Setting up Angular to use HTTPS
 mkcert is a simple tool for making locally-trusted development certificates   [mkcert](https://github.com/FiloSottile/mkcert)
+
+### for notifacation for handle error i use "toast" notifications. 
+for more infromation   [toast](https://github.com/scttcper/ngx-toastr)
+
+### Adding breadcrumbs for navigation hierarchies 
+Breadcrumbs are vital in applications with deep navigation hierarchies, offering users an intuitive way to traverse back to higher levels effortlessly.  [Breadcrumbs](https://github.com/udayvunnam/xng-breadcrumb/tree/main)
+
+### For Adding loading indicators waiting for getting Data form API Request usnig spinner 
+A library which has loading spinners for Angular    [ngx-spinner](https://www.npmjs.com/package/ngx-spinner)
+
+# Store Data   
+using **SQLite** for products and related entities for shopping at **Development** enviroment      
+using **SQLserver** for products and related entities for shopping at **Production** enviroment    
+using **PostgreSQL** for **Identity tables**   
+using **Redis** for saving basket items into the server memory
+
+
 
 
