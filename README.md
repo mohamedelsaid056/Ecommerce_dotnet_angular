@@ -39,7 +39,9 @@ A library which has loading spinners for Angular    [ngx-spinner](https://www.np
 # Store Data   
 using **SQLite** for products and related entities for shopping at **Development** enviroment      
 using **SQLserver** for products and related entities for shopping at **Production** enviroment    
-using **PostgreSQL** for **Identity tables**    
+using **PostgreSQL** for **Identity tables**   
+using **Redis** for saving basket items into the server memory
+
 
 
 
