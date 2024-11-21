@@ -1,4 +1,4 @@
-# nuget paackage 
+# NuGet Paackage In Backend 
 ### for orm 
 install-package Microsoft.EntityFrameworkCore.Sqlite  
 install-package Microsoft.EntityFrameworkCore  
@@ -36,10 +36,10 @@ Breadcrumbs are vital in applications with deep navigation hierarchies, offering
 ### For Adding loading indicators waiting for getting Data form API Request usnig spinner 
 A library which has loading spinners for Angular    [ngx-spinner](https://www.npmjs.com/package/ngx-spinner)
 
-# Store Data 
-using SQLite for products and related entities for shopping at Development enviroment   
-using SQLserver for products and related entities for shopping at Production enviroment 
-using PostgreSQL for Identity tables  
+# Store Data   
+using **SQLite** for products and related entities for shopping at **Development** enviroment      
+using **SQLserver** for products and related entities for shopping at **Production** enviroment    
+using **PostgreSQL** for **Identity tables**    
 
 
 
