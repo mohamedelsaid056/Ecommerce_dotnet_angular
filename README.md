@@ -1,12 +1,18 @@
-## nuget paackage 
+# nuget paackage 
 ### for orm 
-Microsoft.EntityFrameworkCore.Sqlite 
+install-package Microsoft.EntityFrameworkCore.Sqlite 
+install-package Microsoft.EntityFrameworkCore 
+install-package Microsoft.EntityFrameworkCore.Design 
 
-Microsoft.EntityFrameworkCore 
-
-Microsoft.EntityFrameworkCore.Design 
 ### for Redis 
-StackExchange.Redis 
+install-package StackExchange.Redis 
+
+### Identity 
+install-package microsoft.aspnetcore.identity.EntityFrameworkCore
+install-package microsoft.aspnetcore.identity
+install-package microsoft.identitymodel.tokens
+install-package System.IdentityModel.Tokens.Jwt
+
 
 
 ##  database used 
