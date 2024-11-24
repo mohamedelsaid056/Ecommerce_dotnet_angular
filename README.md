@@ -22,6 +22,12 @@ SQLite
 that will help you to get all endpoint in one file you need to import this file in postman 
 
 ## عاوزين نشرح ال Archecture بتاع ال app  وخصوصا استخدام ال repositoy pattern مع ال sececifiction pattern 
+
+# archicture pattern used in app 
+unit of work pattern 
+generic repo pattern 
+spacification pattern 
+clean archicture pattern  
 # third party tools  in client "Angular"
 
 ### Setting up Angular to use HTTPS
