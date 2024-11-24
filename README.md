@@ -26,7 +26,7 @@ that will help you to get all endpoint in one file you need to import this file 
 # archicture pattern used in app 
 unit of work pattern 
 generic repo pattern 
-spacification pattern 
+specification pattern 
 clean archicture pattern  
 # third party tools  in client "Angular"
 
