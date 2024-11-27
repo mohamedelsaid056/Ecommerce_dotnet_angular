@@ -49,5 +49,25 @@ using **PostgreSQL** for **Identity tables**
 using **Redis** for saving basket items into the server memory
 
 
+# NgShop
+Angular 9 e-commerce shop using ASP.NET Core and EF.Core
+
+### Technologies used
+| Technology            | Version |
+|:----------------------|--------:|
+| Angular               | 16      |
+| ASP.NET Core          | 7.1     |
+| EntityFramework.Core  | 7.1.3   |
+| AutoMapper            | 12.0.0  |
+| TypeScript            | 5.5.3   |
+| Redis                 |         |	
+| SQLite                |         |		
+| SQLserver             |         |	
+| PostgreSQL            |         |	
+
+
+
+
+
 
 
