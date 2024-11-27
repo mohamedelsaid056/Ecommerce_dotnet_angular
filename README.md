@@ -212,7 +212,7 @@ You can also follow docs here https://stripe.com/docs/testing
 
 Demo Link:- https://ski-net.azurewebsites.net/
 
-![1st](https://user-images.githubusercontent.com/3886381/80680036-b35e6400-8adb-11ea-8dc4-94ca34a1c222.png)
+![1st](https://github.com/user-attachments/assets/fb5e4259-4bcc-4fe1-bd2f-aa19550e99fb)
 
 ![2nd](https://user-images.githubusercontent.com/3886381/80680044-b5c0be00-8adb-11ea-8ea7-9d0e4318bbf6.png)
 
