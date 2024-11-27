@@ -55,7 +55,7 @@ using **Redis** for saving basket items into the server memory
 | Technology            | Version |
 |:----------------------|--------:|
 | Angular               | 16      |
-| ASP.NET Core          | 7.1     |
+| ASP.NET               | 7.1     |
 | EntityFramework.Core  | 7.1.3   |
 | AutoMapper            | 12.0.0  |
 | TypeScript            | 5.5.3   |
