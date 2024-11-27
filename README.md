@@ -67,7 +67,7 @@ using **Redis** for saving basket items into the server memory
 
 ![.NET Core](https://github.com/rahulsahay19/eCommerce-App/workflows/.NET%20Core/badge.svg?branch=master)
 
-# Ecommerce App using ASP.NET Core and Angular
+# Ecommerce App using ASP.NET and Angular
 
 
 Hi Friends,
@@ -191,6 +191,21 @@ This project is built using asp.net 7. you can cd into API directory and say dot
 - Caching
 - RXJS
 - Design Components
+
+## NuGet Paackage In Backend 
+####  ORM
+install-package Microsoft.EntityFrameworkCore.Sqlite  
+install-package Microsoft.EntityFrameworkCore  
+install-package Microsoft.EntityFrameworkCore.Design  
+
+####  Redis 
+install-package StackExchange.Redis  
+
+#### Identity 
+install-package microsoft.aspnetcore.identity.EntityFrameworkCore  
+install-package microsoft.aspnetcore.identity  
+install-package microsoft.identitymodel.tokens  
+install-package System.IdentityModel.Tokens.Jwt 
 
 
 
