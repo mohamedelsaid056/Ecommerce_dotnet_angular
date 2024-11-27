@@ -207,6 +207,27 @@ install-package microsoft.aspnetcore.identity
 install-package microsoft.identitymodel.tokens  
 install-package System.IdentityModel.Tokens.Jwt 
 
+## Store Data   
+using **SQLite** for products and related entities for shopping at **Development** enviroment      
+using **SQLserver** for products and related entities for shopping at **Production** enviroment    
+using **PostgreSQL** for **Identity tables**   
+using **Redis** for saving basket items into the server memory
+
+
+## third party tools  in client "Angular"
+
+#### Setting up Angular to use HTTPS
+mkcert is a simple tool for making locally-trusted development certificates   [mkcert](https://github.com/FiloSottile/mkcert)
+
+#### for notifacation for handle error i use "toast" notifications. 
+for more infromation   [toast](https://github.com/scttcper/ngx-toastr)
+
+#### Adding breadcrumbs for navigation hierarchies 
+Breadcrumbs are vital in applications with deep navigation hierarchies, offering users an intuitive way to traverse back to higher levels effortlessly.  [Breadcrumbs](https://github.com/udayvunnam/xng-breadcrumb/tree/main)
+
+#### For Adding loading indicators waiting for getting Data form API Request usnig spinner 
+A library which has loading spinners for Angular    [ngx-spinner](https://www.npmjs.com/package/ngx-spinner)
+
 
 
 
