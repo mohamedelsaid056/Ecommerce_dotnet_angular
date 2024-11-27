@@ -146,7 +146,7 @@ using **PostgreSQL** for **Identity tables**
 using **Redis** for saving basket items into the server memory
 
 
-## third party tools  in client "Angular"
+## Third party tools in client "Angular"
 
 #### Setting up Angular to use HTTPS
 mkcert is a simple tool for making locally-trusted development certificates   [mkcert](https://github.com/FiloSottile/mkcert)
@@ -182,7 +182,6 @@ You can also follow docs here https://stripe.com/docs/testing
 Demo Link:- https://ski-net.azurewebsites.net/
 
 ![1st](https://github.com/user-attachments/assets/fb5e4259-4bcc-4fe1-bd2f-aa19550e99fb)
-
 
 
 ![4th](https://user-images.githubusercontent.com/3886381/80680053-b8231800-8adb-11ea-8be7-e0e3dba71dca.png)
