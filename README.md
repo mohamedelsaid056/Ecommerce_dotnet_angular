@@ -210,7 +210,7 @@ You can also follow docs here https://stripe.com/docs/testing
 
 ## Glimpse of the working solution
 
-Demo Link:- https://sports-center.azurewebsites.net/
+Demo Link:- https://ski-net.azurewebsites.net/
 
 ![1st](https://user-images.githubusercontent.com/3886381/80680036-b35e6400-8adb-11ea-8dc4-94ca34a1c222.png)
 
@@ -234,7 +234,7 @@ Demo Link:- https://sports-center.azurewebsites.net/
 
 ![11th](https://user-images.githubusercontent.com/3886381/80680064-bb1e0880-8adb-11ea-963a-7a591aef9759.png)
 
-![12th](https://user-images.githubusercontent.com/3886381/80680067-bbb69f00-8adb-11ea-90c3-8682349cac0e.png)
+
 
 
 
