@@ -4,7 +4,7 @@
 
 Hi Friends,
 
-This is a full stack project using ASP.NET 7 and Angular 16 with other best practices as explained below. I hope you like it.
+This is a full stack project using ASP.NET 8 and Angular 16 with other best practices as explained below. I hope you like it.
 
 
 Demo Link:- https://ski-net.azurewebsites.net/
